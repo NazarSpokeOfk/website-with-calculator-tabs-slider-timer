@@ -1,0 +1,23 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarSpokeOfk/js-courses.git"
+  },
+  "author": "spoke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazarSpokeOfk/js-courses/issues"
+  },
+  "homepage": "https://github.com/NazarSpokeOfk/js-courses#readme",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
