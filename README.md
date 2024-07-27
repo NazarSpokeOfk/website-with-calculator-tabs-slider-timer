@@ -3,4 +3,4 @@
 
 *This repository contains a fully working nutrition website!*
 
-*Just open master branch and pull this project to your local PC , and ENJOY!*
+*Just open master branch and pull this project to your local PC , install webpack and ENJOY!*
